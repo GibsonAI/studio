@@ -1,0 +1,18 @@
+{
+  "name": "gibson-studio",
+  "description": "Drizzle Studio for Gibson databases",
+  "version": "1.0.0",
+  "scripts": {
+    "studio": "drizzle-kit studio"
+  },
+  "dependencies": {
+    "dotenv": "16.4.7",
+    "drizzle-orm": "0.40.0",
+    "mysql2": "3.12.0"
+  },
+  "devDependencies": {
+    "@types/node": "22.13.9",
+    "drizzle-kit": "0.30.5",
+    "typescript": "5.8.2"
+  }
+}
