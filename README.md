@@ -1,4 +1,6 @@
-# Gibson Studio
+[![GibsonAI](https://github.com/user-attachments/assets/26bc1002-f878-4995-a6c5-eb8d5eb69c28)](https://gibsonai.com/)
+
+# studio
 
 This is a free, in-browser database manager and SQL editor that runs on your localhost using [Drizzle ORM](https://orm.drizzle.team/)'s Studio.
 
